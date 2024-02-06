@@ -3,7 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ### News
-- **06/02/2024:** The course website is online. Welcome to ML 2023/24! **The course will start on Mon 26th February**.
+- **06/02/2024:** The course website is online. Welcome to ML 2023/24! **The course will start on Mon 4th March**.
 
 ### Logistics
 
@@ -42,6 +42,6 @@ We may require an oral exam in doubtful cases or whenever necessary.
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Mon 26 Feb | Introduction | upcoming |
-Tue 27 Feb | TBD | upcoming |
+Mon 4 Mar | Introduction | upcoming |
+Tue 5 Mar | TBD | upcoming |
 
