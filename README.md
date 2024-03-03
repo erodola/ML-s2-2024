@@ -2,10 +2,10 @@
 
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
-### News
+## News 🗞️
 - **06/02/2024:** The course website is online. Welcome to ML 2023/24! **The course will start on Mon 4th March**.
 
-### Logistics
+## Logistics 🧭
 
 **Lecturer:** Prof. Emanuele Rodolà
 
@@ -19,15 +19,15 @@ Physical classroom: Aula Picone - Piano Terra, Dip. di Matematica Castelnuovo (C
 
 There is no virtual classroom, and the lectures will not be recorded.
 
-### Pre-requisites
+## Pre-requisites 🔑
 
 Python fundamentals; calculus; linear algebra.
 
-### Textbook and reading material
+## Textbook and reading material 📖
 
 Due to the continuously evolving nature of the topic, there is no fixed textbook as a reference. Specific material in the form of scientific articles and book chapters will be given throughout the lectures.
 
-### Grading
+## Grading 📊
 
 Evaluation proceeds according to the following steps:
 
@@ -38,7 +38,7 @@ Evaluation proceeds according to the following steps:
 
 We may require an oral exam in doubtful cases or whenever necessary.
 
-### Lectures
+## Lectures 🗣️
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
