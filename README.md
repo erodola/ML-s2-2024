@@ -43,5 +43,4 @@ We may require an oral exam in doubtful cases or whenever necessary.
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
 Mon 4 Mar | Introduction | [slides](https://github.com/erodola/ML-s2-2024/raw/main/01_intro/01-intro.pdf) |
-Tue 5 Mar | TBD | upcoming |
-
+Tue 5 Mar | Talking sense about data | [slides](https://github.com/erodola/ML-s2-2024/raw/main/02_data/02-data.pdf) |
