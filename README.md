@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **12/03/2024:** Added an explanation for the solution to the **final exercise of notebook 01**.
 - **10/03/2024:** The lecture of **Monday 11th March will be a lab session**, and Tuesday 12th March will be theory!
 - **06/02/2024:** The course website is online. Welcome to ML 2023/24! **The course will start on Mon 4th March**.
 
