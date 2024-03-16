@@ -48,5 +48,5 @@ Mon 4 Mar | Introduction; Talking sense about data I | [slides](https://github.c
 Tue 5 Mar | Talking sense about data II; Linear algebra revisited; Introduction to Python notebooks and NumPy | [slides](https://github.com/erodola/ML-s2-2024/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/ML-s2-2024/raw/main/02_data/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/ML-s2-2024/raw/main/02_data/03b-matrix.pdf) |
 Mon 11 Mar | Array manipulation | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/01_Array_manipulation.ipynb)
 Tue 12 Mar | Regression problems | [slides](https://github.com/erodola/ML-s2-2024/raw/main/03_regression/04-regression.pdf) ; [matrix gradient notes](https://github.com/erodola/ML-s2-2024/raw/main/03_regression/04b-mgradient.pdf) |
-Mon 18 Mar | TBD | | upcoming
+Mon 18 Mar | Linear regression and scikit-learn | | upcoming
 Tue 19 Mar | Regularization; Stochastic gradient descent | [slides 1](https://github.com/erodola/ML-s2-2024/raw/main/05_regularization/05-regularization.pdf) ; [slides 2](https://github.com/erodola/ML-s2-2024/raw/main/06_sgd/06-sgd.pdf) |
