@@ -51,4 +51,4 @@ Tue 12 Mar | Regression problems | [slides](https://github.com/erodola/ML-s2-202
 Mon 18 Mar | Linear regression and scikit-learn | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/02_Linear_regression.ipynb) [🐱](https://github.com/erodola/ML-s2-2024/raw/main/labs/cat.png)
 Tue 19 Mar | Regularization; Stochastic gradient descent | [slides 1](https://github.com/erodola/ML-s2-2024/raw/main/05_regularization/05-regularization.pdf) ; [slides 2](https://github.com/erodola/ML-s2-2024/raw/main/06_sgd/06-sgd.pdf) |
 Mon 25 Mar | TBD |  |  upcoming
-Tue 26 Mar | Multi-layer perceptron and back-propagation | upcoming |
+Tue 26 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/ML-s2-2024/raw/main/07_mlp/07-mlp.pdf) |
