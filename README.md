@@ -59,3 +59,5 @@ Mon 18 Mar | Linear regression and scikit-learn | | [![Open In Colab](https://co
 Tue 19 Mar | Regularization; Stochastic gradient descent | [slides 1](https://github.com/erodola/ML-s2-2024/raw/main/05_regularization/05-regularization.pdf) ; [slides 2](https://github.com/erodola/ML-s2-2024/raw/main/06_sgd/06-sgd.pdf) |
 Mon 25 Mar | Stochastic gradient descent |  |  upcoming
 Tue 26 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/ML-s2-2024/raw/main/07_mlp/07-mlp.pdf) |
+Mon 01 Apr | **Easter holidays** |  |  
+Mon 02 Apr | **Easter holidays** |  |  
