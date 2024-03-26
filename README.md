@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **26/03/2024:** Fixed a mistake in the **calculation of the gradient in notebook 03**.
 - **22/03/2024:** Mark your calendars! The **exam dates** ✍ are now published (scroll down to the _Grading_ section).
 - **12/03/2024:** Added an explanation for the solution to the **final exercise of notebook 01**.
 - **10/03/2024:** The lecture of **Monday 11th March will be a lab session**, and Tuesday 12th March will be theory!
