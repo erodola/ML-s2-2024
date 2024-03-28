@@ -62,5 +62,5 @@ Mon 25 Mar | Stochastic gradient descent |  |  [![Open In Colab](https://colab.r
 Tue 26 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/ML-s2-2024/raw/main/07_mlp/07-mlp.pdf) |
 Mon 01 Apr | **Easter holidays** |  |  
 Tue 02 Apr | **Easter holidays** |  |  
-Mon 08 Apr | PyTorch and Deep Learning I |  |  upcoming
+Mon 08 Apr | PyTorch and Deep Learning I |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/04_PyTorch_and_DL.ipynb)
 Tue 09 Apr | PyTorch and Deep Learning II |  |  _use yesterday's notebook_
