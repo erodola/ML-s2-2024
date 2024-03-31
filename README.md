@@ -64,3 +64,5 @@ Mon 01 Apr | **Easter holidays** |  |
 Tue 02 Apr | **Easter holidays** |  |  
 Mon 08 Apr | PyTorch and Deep Learning I |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/04_PyTorch_and_DL.ipynb)
 Tue 09 Apr | PyTorch and Deep Learning II |  |  _use yesterday's notebook_
+Mon 15 Apr | PCA, spectra, and low-rank approximations | _upcoming_ |
+Tue 16 Apr | TBD |  |
