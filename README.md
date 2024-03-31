@@ -52,17 +52,17 @@ We may require an oral exam in doubtful cases or whenever necessary.
 
 **Date** | **Topic** | **Reading** | **Code & Data**
 ------------ | ------------- | ------------ | ------------
-Mon 4 Mar | Introduction; Talking sense about data I | [slides](https://github.com/erodola/ML-s2-2024/raw/main/01_intro/01-intro.pdf) |
-Tue 5 Mar | Talking sense about data II; Linear algebra revisited; Introduction to Python notebooks and NumPy | [slides](https://github.com/erodola/ML-s2-2024/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/ML-s2-2024/raw/main/02_data/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/ML-s2-2024/raw/main/02_data/03b-matrix.pdf) |
-Mon 11 Mar | Array manipulation | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/01_Array_manipulation.ipynb)
-Tue 12 Mar | Regression problems | [slides](https://github.com/erodola/ML-s2-2024/raw/main/03_regression/04-regression.pdf) ; [matrix gradient notes](https://github.com/erodola/ML-s2-2024/raw/main/03_regression/04b-mgradient.pdf) |
-Mon 18 Mar | Linear regression and scikit-learn | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/02_Linear_regression.ipynb) [🐱](https://github.com/erodola/ML-s2-2024/raw/main/labs/cat.png)
-Tue 19 Mar | Regularization; Stochastic gradient descent | [slides 1](https://github.com/erodola/ML-s2-2024/raw/main/05_regularization/05-regularization.pdf) ; [slides 2](https://github.com/erodola/ML-s2-2024/raw/main/06_sgd/06-sgd.pdf) |
-Mon 25 Mar | Stochastic gradient descent |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/03_SGD.ipynb)
-Tue 26 Mar | Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/ML-s2-2024/raw/main/07_mlp/07-mlp.pdf) |
-Mon 01 Apr | **Easter holidays** |  |  
-Tue 02 Apr | **Easter holidays** |  |  
-Mon 08 Apr | PyTorch and Deep Learning I |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/04_PyTorch_and_DL.ipynb)
-Tue 09 Apr | PyTorch and Deep Learning II |  |  _use yesterday's notebook_
-Mon 15 Apr | PCA, spectra, and low-rank approximations | _upcoming_ |
+Mon 4 Mar | 🌐 Introduction; Talking sense about data I | [slides](https://github.com/erodola/ML-s2-2024/raw/main/01_intro/01-intro.pdf) |
+Tue 5 Mar | 🔢 Talking sense about data II; Linear algebra revisited; Introduction to Python notebooks and NumPy | [slides](https://github.com/erodola/ML-s2-2024/raw/main/02_data/02-data.pdf) ; [linear algebra recap](https://github.com/erodola/ML-s2-2024/raw/main/02_data/03-linalg.pdf) ; [matrix notes](https://github.com/erodola/ML-s2-2024/raw/main/02_data/03b-matrix.pdf) |
+Mon 11 Mar | 🀠 Array manipulation | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/01_Array_manipulation.ipynb)
+Tue 12 Mar | 📏 Regression problems | [slides](https://github.com/erodola/ML-s2-2024/raw/main/03_regression/04-regression.pdf) ; [matrix gradient notes](https://github.com/erodola/ML-s2-2024/raw/main/03_regression/04b-mgradient.pdf) |
+Mon 18 Mar | 📏 Linear regression and scikit-learn | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/02_Linear_regression.ipynb) [🐱](https://github.com/erodola/ML-s2-2024/raw/main/labs/cat.png)
+Tue 19 Mar | 📉 Regularization; Stochastic gradient descent | [slides 1](https://github.com/erodola/ML-s2-2024/raw/main/05_regularization/05-regularization.pdf) ; [slides 2](https://github.com/erodola/ML-s2-2024/raw/main/06_sgd/06-sgd.pdf) |
+Mon 25 Mar | 📉 Stochastic gradient descent |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/03_SGD.ipynb)
+Tue 26 Mar | 🔁 Multi-layer perceptron and back-propagation | [slides](https://github.com/erodola/ML-s2-2024/raw/main/07_mlp/07-mlp.pdf) |
+Mon 01 Apr | 🐇 **Easter holidays** |  |  
+Tue 02 Apr | 🐇 **Easter holidays** |  |  
+Mon 08 Apr | 🔥 PyTorch and Deep Learning I |  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/04_PyTorch_and_DL.ipynb)
+Tue 09 Apr | 🔥 PyTorch and Deep Learning II |  |  _use yesterday's notebook_
+Mon 15 Apr | 👻 PCA, spectra, and low-rank approximations | _upcoming_ |
 Tue 16 Apr | TBD |  |
