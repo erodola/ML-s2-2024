@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **20/04/2024:** Instructions for the **final exam** have been updated; scroll down to the Grading 📊 section for details.
 - **17/04/2024:** The **midterm self-assessment** will take place on April 29th.
 - **26/03/2024:** Fixed a mistake in the **calculation of the gradient in notebook 03**.
 - **22/03/2024:** Mark your calendars! The **exam dates** ✍ are now published (scroll down to the _Grading_ section).
@@ -42,10 +43,13 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 
 Evaluation proceeds according to the following steps:
 
-- A midterm self-evaluation test (optional, does not concur to the final grade)
-- A final written exam (**mandatory**, accounts for 60% of the final grade)
-- A project (**mandatory**, accounts for 40% of the final grade)
-- An oral exam (optional, attributes at most 3 points, added to or subtracted from the final grade)
+- A final written exam (**mandatory**, accounts for 30% of the final grade)
+- A project (**mandatory**, accounts for 70% of the final grade)
+
+~Example 1~: Project: 30; Written exam: 20; Final grade: 27.
+~Example 2~: Project: 26; Written exam: 30; Final grade: 27.
+
+There will also be a *midterm self-evaluation* test; it is **optional**, and does not concur to the final grade.
 
 We may require an oral exam in doubtful cases or whenever necessary.
 
