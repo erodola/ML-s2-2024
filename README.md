@@ -46,8 +46,8 @@ Evaluation proceeds according to the following steps:
 - A final written exam (**mandatory**, accounts for 30% of the final grade)
 - A project (**mandatory**, accounts for 70% of the final grade)
 
-~Example 1~: Project: 30; Written exam: 20; Final grade: 27.
-~Example 2~: Project: 26; Written exam: 30; Final grade: 27.
+*Example 1*: Project: 30; Written exam: 20; Final grade: 27.
+*Example 2*: Project: 26; Written exam: 30; Final grade: 27.
 
 There will also be a *midterm self-evaluation* test; it is **optional**, and does not concur to the final grade.
 
