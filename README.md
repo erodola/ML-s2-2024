@@ -73,5 +73,5 @@ Mon 15 Apr | 👻 PCA, spectra, and low-rank approximations | [slides](https://g
 Tue 16 Apr | 👻 Principal Component Analysis |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/05_PCA.ipynb) [🦒](https://drive.google.com/drive/folders/1MOnQZmmbJrrLolskuHxdV5BhADioTgDm?usp=sharing) [😀](https://drive.google.com/drive/folders/1pVUvA06nO1Zku4Z-PsFl8zETvfbbHlP8?usp=sharing)
 Mon 22 Apr | 🗺️ Manifold learning and dimensionality reduction | [slides](https://github.com/erodola/ML-s2-2024/raw/main/09_mds_tsne/09-mds_tsne.pdf) |
 Tue 23 Apr | 🗺️ MDS and t-SNE | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/06_MDS_tSNE.ipynb)
-Mon 29 Apr | 📝 Midterm | _upcoming_ |
+Mon 29 Apr | 📝 **Midterm** | _upcoming_ |
 Tue 30 Apr | TBD | _upcoming_ | _upcoming_
