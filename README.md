@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **24/04/2024:** Starting from **May 6th**, lectures will be held in **Aula C** instead of Aula Picone.
 - **20/04/2024:** Instructions for the **final exam** have been updated; scroll down to the Grading 📊 section for details.
 - **17/04/2024:** The **midterm self-assessment** will take place on April 29th.
 - **26/03/2024:** Fixed a mistake in the **calculation of the gradient in notebook 03**.
