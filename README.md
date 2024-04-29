@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **29/04/2024:** The midterm sheet is published, scroll down to download it.
 - **24/04/2024:** Starting from **May 6th**, lectures will be held in **Aula C** instead of Aula Picone.
 - **20/04/2024:** Instructions for the **final exam** have been updated; scroll down to the Grading 📊 section for details.
 - **17/04/2024:** The **midterm self-assessment** will take place on April 29th.
@@ -74,5 +75,5 @@ Mon 15 Apr | 👻 PCA, spectra, and low-rank approximations | [slides](https://g
 Tue 16 Apr | 👻 Principal Component Analysis |  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/05_PCA.ipynb) [🦒](https://drive.google.com/drive/folders/1MOnQZmmbJrrLolskuHxdV5BhADioTgDm?usp=sharing) [😀](https://drive.google.com/drive/folders/1pVUvA06nO1Zku4Z-PsFl8zETvfbbHlP8?usp=sharing)
 Mon 22 Apr | 🗺️ Manifold learning and dimensionality reduction | [slides](https://github.com/erodola/ML-s2-2024/raw/main/09_mds_tsne/09-mds_tsne.pdf) |
 Tue 23 Apr | 🗺️ MDS and t-SNE | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/06_MDS_tSNE.ipynb)
-Mon 29 Apr | 📝 **Midterm** | _upcoming_ |
+Mon 29 Apr | 📝 **Midterm** | [sheet](https://github.com/erodola/ML-s2-2024/raw/main/midterm.pdf) |
 Tue 30 Apr | TBD | _upcoming_ | _upcoming_
