@@ -76,4 +76,4 @@ Tue 16 Apr | 👻 Principal Component Analysis |  | [![Open In Colab](https://co
 Mon 22 Apr | 🗺️ Manifold learning and dimensionality reduction | [slides](https://github.com/erodola/ML-s2-2024/raw/main/09_mds_tsne/09-mds_tsne.pdf) |
 Tue 23 Apr | 🗺️ MDS and t-SNE | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/06_MDS_tSNE.ipynb)
 Mon 29 Apr | 📝 **Midterm** | [sheet](https://github.com/erodola/ML-s2-2024/raw/main/midterm.pdf) |
-Tue 30 Apr | Reinforcement Learning tutorial | [slides](https://github.com/erodola/ML-s2-2024/raw/main/10_rl_tutorial/rl_intro.pdf) | _upcoming_
+Tue 30 Apr | Reinforcement Learning tutorial | [slides](https://github.com/erodola/ML-s2-2024/raw/main/10_rl_tutorial/rl_intro.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/07_qlearning.ipynb)
