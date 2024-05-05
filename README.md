@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **05/05/2024:** The lecture of **May 7th is cancelled** due to the Professor attending the [ICLR 2024](https://iclr.cc/) conference to present several works.
 - **03/05/2024:** The lecture of **May 6th will be held in Aula Picone**. We will move to **Aula C from May 8th**.
 - **29/04/2024:** The midterm sheet is published, scroll down to download it.
 - **24/04/2024:** Starting from **May 6th**, lectures will be held in **Aula C** instead of Aula Picone.
@@ -78,3 +79,12 @@ Mon 22 Apr | 🗺️ Manifold learning and dimensionality reduction | [slides](h
 Tue 23 Apr | 🗺️ MDS and t-SNE | | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/06_MDS_tSNE.ipynb)
 Mon 29 Apr | 📝 **Midterm** | [sheet](https://github.com/erodola/ML-s2-2024/raw/main/midterm.pdf) |
 Tue 30 Apr | Reinforcement Learning tutorial | [slides](https://github.com/erodola/ML-s2-2024/raw/main/10_rl_tutorial/rl_intro.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/07_qlearning.ipynb)
+Mon 06 May | TBD |  |
+Mon 13 May | TBD |  |
+Tue 14 May | TBD |  |
+Mon 20 May | TBD |  |
+Tue 21 May | TBD |  |
+Mon 27 May | TBD |  |
+Tue 28 May | TBD |  |
+
+**End**
