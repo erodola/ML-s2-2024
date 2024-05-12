@@ -3,10 +3,8 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
-- **05/05/2024:** The lecture of **May 7th is cancelled** due to the Professor attending the [ICLR 2024](https://iclr.cc/) conference to present several works.
-- **03/05/2024:** The lecture of **May 6th will be held in Aula Picone**. We will move to **Aula C from May 8th**.
+- **12/05/2024:** Starting from **May 13th**, lectures will be held in **Aula C** instead of Aula Picone.
 - **29/04/2024:** The midterm sheet is published, scroll down to download it.
-- **24/04/2024:** Starting from **May 6th**, lectures will be held in **Aula C** instead of Aula Picone.
 - **20/04/2024:** Instructions for the **final exam** have been updated; scroll down to the Grading 📊 section for details.
 - **17/04/2024:** The **midterm self-assessment** will take place on April 29th.
 - **26/03/2024:** Fixed a mistake in the **calculation of the gradient in notebook 03**.
