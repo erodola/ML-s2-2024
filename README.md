@@ -80,7 +80,7 @@ Tue 23 Apr | 🗺️ MDS and t-SNE | | [![Open In Colab](https://colab.research.
 Mon 29 Apr | 📝 **Midterm** | [sheet](https://github.com/erodola/ML-s2-2024/raw/main/midterm.pdf) |
 Tue 30 Apr | Reinforcement Learning tutorial | [slides](https://github.com/erodola/ML-s2-2024/raw/main/10_rl_tutorial/rl_intro.pdf) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erodola/ML-s2-2024/blob/main/labs/07_qlearning.ipynb)
 Mon 06 May | 🔄 Midterm answers and Theory recap |  |
-Mon 13 May | TBD |  |
+Mon 13 May | 🔄 Notebook recap |  |
 Tue 14 May | TBD |  |
 Mon 20 May | TBD |  |
 Tue 21 May | TBD |  |
