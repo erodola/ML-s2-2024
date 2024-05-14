@@ -17,7 +17,7 @@ Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 **Lecturer:** Prof. Emanuele Rodolà
 
-**Assistants:** Dr. Robert Adrian Minut and Dr. Daniele Solombrino
+**Assistants:** [Dr. Adrian Minut](https://github.com/adrianrob1) and [Dr. Daniele Solombrino](https://github.com/dansolombrino/)
 
 **When:** Mondays 10:00--13:00 and Tuesdays 8:00--11:00
 
