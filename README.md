@@ -23,7 +23,9 @@ Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 **Where:**
 
-Physical classroom: Aula Picone - Piano Terra, Dip. di Matematica Castelnuovo (CU006-E01PTEL008)
+*Until May 6th:* Aula Picone - Piano Terra, Dip. di Matematica Castelnuovo (CU006-E01PTEL008)
+
+*From May 13th:* Aula C - Piano Terra, Dip. di Matematica Castelnuovo (CU006-E01PTEL008)
 
 There is no virtual classroom, and the lectures will not be recorded.
 
