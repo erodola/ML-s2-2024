@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **21/05/2024:** The lectures of May 27th and May 28th will be held in **Room 301 Edificio D**.
 - **12/05/2024:** Starting from **May 13th**, lectures will be held in **Aula C** instead of Aula Picone.
 - **29/04/2024:** The midterm sheet is published, scroll down to download it.
 - **20/04/2024:** Instructions for the **final exam** have been updated; scroll down to the Grading 📊 section for details.
