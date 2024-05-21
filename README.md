@@ -3,7 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
-- **21/05/2024:** The lectures of May 27th and May 28th will be held in **Room 301 Edificio D**.
+- **21/05/2024:** The lectures of May 27th and May 28th will be held in **Room 301 Edificio D, viale Regina Elena 295**.
 - **12/05/2024:** Starting from **May 13th**, lectures will be held in **Aula C** instead of Aula Picone.
 - **29/04/2024:** The midterm sheet is published, scroll down to download it.
 - **20/04/2024:** Instructions for the **final exam** have been updated; scroll down to the Grading 📊 section for details.
@@ -85,7 +85,7 @@ Mon 13 May | 🔄 Notebook recap |  |
 Tue 14 May | 🗣️ Seminars | [A bitter lesson](https://github.com/erodola/ML-s2-2024/raw/main/seminar/bitter_lesson.pdf) ; [Relative representations](https://github.com/erodola/ML-s2-2024/raw/main/seminar/relrepr.pdf) |
 Mon 20 May | 🌳 Ensemble methods | [slides](https://github.com/erodola/ML-s2-2024/raw/main/11_ensemble/11-ensemble.pdf) |
 Tue 21 May | 🥷 Street fighting ML | *upcoming* |
-Mon 27 May | TBD |  |
-Tue 28 May | TBD |  |
+Mon 27 May | 🚀 Hackathon | [Sign up your team here](https://forms.gle/WFJzFDfzPGdeg8P57) |
+Tue 28 May | 🚀 Hackathon |  |
 
 **End**
