@@ -84,7 +84,7 @@ Mon 06 May | 🔄 Midterm answers and Theory recap |  |
 Mon 13 May | 🔄 Notebook recap |  |
 Tue 14 May | 🗣️ Seminars | [A bitter lesson](https://github.com/erodola/ML-s2-2024/raw/main/seminar/bitter_lesson.pdf) ; [Relative representations](https://github.com/erodola/ML-s2-2024/raw/main/seminar/relrepr.pdf) |
 Mon 20 May | 🌳 Ensemble methods | [slides](https://github.com/erodola/ML-s2-2024/raw/main/11_ensemble/11-ensemble.pdf) |
-Tue 21 May | 🥷 Street fighting ML | *upcoming* |
+Tue 21 May | 🥷 Street fighting ML | [slides](https://github.com/erodola/ML-s2-2024/raw/main/12_street/12-street.pdf) |
 Mon 27 May | 🚀 Hackathon | [Sign up your team here](https://forms.gle/WFJzFDfzPGdeg8P57) |
 Tue 28 May | 🚀 Hackathon |  |
 
