@@ -3,7 +3,8 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
-- **11/06/2024:** The written exam will be held **on June 24th in Aula C from 12:00 to 14:00**.
+- **20/06/2024:** The **second** written exam will be held **on July 15th in Aula C from 11:00 to 13:00**.
+- **11/06/2024:** The **first** written exam will be held **on June 24th in Aula C from 12:00 to 14:00**.
 - **23/05/2024:** Projects list is available [here](https://github.com/erodola/ML-s2-2024/raw/main/project/ML_projects_2023_24.pdf).
 - **23/05/2024:** 🎧 Make sure to have at least one pair of **headphones** in your group for May 27th and 28th lectures
 - **21/05/2024:** The lectures of May 27th and May 28th will be held in **Room 301 Edificio D, viale Regina Elena 295**.
