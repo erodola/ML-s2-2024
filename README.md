@@ -49,6 +49,7 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 **Exam dates**
 - 24 June 2024
 - 15 July 2024
+- 03 September 2024
 - 17 September 2024
 - 24 January 2025
 
