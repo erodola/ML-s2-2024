@@ -48,8 +48,8 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 ## Grading 📊
 
 **Exam dates**
-- 24 June 2024
-- 15 July 2024
+- <s>24 June 2024</s>
+- <s>15 July 2024</s>
 - 03 September 2024
 - 17 September 2024
 - 24 January 2025
