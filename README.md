@@ -67,6 +67,10 @@ There will also be a *midterm self-evaluation* test; it is **optional**, and doe
 
 We may require an oral exam in doubtful cases or whenever necessary.
 
+## Past exams 📑 
+
+You can find some example sheets of past written exams in this [Google Drive folder](https://drive.google.com/drive/folders/1GwyIw-6SqTEHHtjYCjcNogL7xa6ifeHj)
+
 ## Lectures 🗣️
 
 **Date** | **Topic** | **Reading** | **Code & Data**
