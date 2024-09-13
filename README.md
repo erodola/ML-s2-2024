@@ -70,7 +70,7 @@ We may require an oral exam in doubtful cases or whenever necessary.
 
 ## Past exams 📑 
 
-You can find some example sheets of past written exams in this [Google Drive folder](https://drive.google.com/drive/folders/1GwyIw-6SqTEHHtjYCjcNogL7xa6ifeHj)
+You can find all past written exams in this [Google Drive folder](https://drive.google.com/drive/folders/1GwyIw-6SqTEHHtjYCjcNogL7xa6ifeHj)
 
 ## Lectures 🗣️
 
