@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **20/01/2025:** The **fifth** written exam will be held **on Jan 24th in Aula C from 15:00 to 17:00**.
 - **18/09/2024:** The **grades** for the written exam of September 17 are published [here](https://github.com/erodola/ML-s2-2024/raw/main/17Set-grades.pdf).
 - **04/09/2024:** The **grades** for the written exam of September 03 are published [here](https://github.com/erodola/ML-s2-2024/raw/main/03Set-grades.pdf).
 - **16/07/2024:** The **grades** for the written exam of July 15 are published [here](https://github.com/erodola/ML-s2-2024/raw/main/15Lug-grades.pdf).
