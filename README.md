@@ -3,6 +3,7 @@
 Course material, 2nd semester a.y. 2023/2024, Mathematical Sciences for AI
 
 ## News 🗞️
+- **04/02/2025:** The **grades** for the written exam of January 24 are published [here](https://github.com/erodola/ML-s2-2024/raw/main/24Gen-grades.pdf).
 - **20/01/2025:** The **fifth** written exam will be held **on Jan 24th in Aula C from 15:00 to 17:00**.
 - **18/09/2024:** The **grades** for the written exam of September 17 are published [here](https://github.com/erodola/ML-s2-2024/raw/main/17Set-grades.pdf).
 - **04/09/2024:** The **grades** for the written exam of September 03 are published [here](https://github.com/erodola/ML-s2-2024/raw/main/03Set-grades.pdf).
@@ -55,7 +56,7 @@ Due to the continuously evolving nature of the topic, there is no fixed textbook
 - <s>15 July 2024</s>
 - <s>03 September 2024</s>
 - <s>17 September 2024</s>
-- 24 January 2025
+- <s>24 January 2025</s>
 
 Evaluation proceeds according to the following steps:
 
